@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <repositories version="1.1" encoding="unicode">
-		<repo quality="experimental" status="unofficial">
-				<name>garmine</name>
-				<description lang="en">Garmine's Custom Gentoo Overlay.</description>
-				<homepage>https://github.com/garmine/gentoo-overlay</homepage>
-				<owner type="person">
-						<name>Miklos Kozak</name>
-						<email>garmine@kszk.bme.hu</email>
-				</owner>
-				<source type="git">git://github.com/garmine/gentoo-overlay.git</source>
-		</repo>
+	<repo quality="experimental" status="unofficial">
+		<name>garmine</name>
+		<description lang="en">Garmine's Custom Gentoo Overlay.</description>
+		<homepage>https://github.com/garmine/gentoo-overlay</homepage>
+		<owner type="person">
+			<name>Miklos Kozak</name>
+			<email>garmine@kszk.bme.hu</email>
+		</owner>
+		<source type="git">git://github.com/garmine/gentoo-overlay.git</source>
+	</repo>
 </repositories>
